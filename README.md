@@ -1,4 +1,4 @@
-# Portfolio Website Design
+# Joice Portfolio Website Design
 
 ![Project Banner](src/assets/c694b73a25fc1656ca4e4db492e28414c9bb556d.png)
 
