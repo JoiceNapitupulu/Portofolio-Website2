@@ -96,4 +96,25 @@ root/
 ├── tailwind.config.js   # Tailwind configuration
 ├── tsconfig.json        # TypeScript configuration
 └── vite.config.ts       # Vite configuration & Alias Paths
+```
+💡 Usage Example / Navigation Flow
+Landing: Users are greeted with a closed folder animation. Click the folder to "open" the portfolio.
 
+Exploration: Scroll down to view the About, Skills, and Projects sections.
+
+Project Details: Click on any project card (e.g., "Whoosh Train Booking" or "Joydee App") to view the full case study, tools used, and demo links.
+
+Contact: Use the form at the bottom to send a message or view social media links.
+
+🤝 Contribution
+Contributions are welcome! If you'd like to improve features or fix bugs:
+
+Fork the repository.
+
+Create a new feature branch (git checkout -b feature-cool-feature).
+
+Commit your changes (git commit -m 'Add some cool feature').
+
+Push to the branch (git push origin feature-cool-feature).
+
+Open a new Pull Request.
